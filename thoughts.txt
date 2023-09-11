@@ -1,5 +1,11 @@
 /*
 Fascinating thought no 1
 Fascinating thought no 2
+
+I don't think i want to think more today
+>>>>>>> Stashed changes
+
+<<<<<<< Updated upstream
 Fascinating thought no 3
+
 */
