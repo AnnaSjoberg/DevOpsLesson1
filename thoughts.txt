@@ -8,4 +8,6 @@ I don't think i want to think more today
 <<<<<<< Updated upstream
 Fascinating thought no 3
 
+A new day, a new fascinating thought! 
+
 */
